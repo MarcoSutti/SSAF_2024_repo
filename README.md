@@ -47,5 +47,5 @@ The code written in this repository is GPL licensed.
 
 ## V) Dependencies
 
-The file `Stiefel_Log_supp.m` in the `utilities` folder is taken from the paper [A Matrix-Algebraic Algorithm for the Riemannian Logarithm on the Stiefel Manifold under the Canonical Metric](https://epubs.siam.org/doi/10.1137/16M1074485), SIAM J. Matrix Anal. Appl., Vol. 38 (2017), No. 2, pp. 322–342.
+The file `Stiefel_Log_supp.m` in the `utilities` folder is taken from Appendix C of the paper [A Matrix-Algebraic Algorithm for the Riemannian Logarithm on the Stiefel Manifold under the Canonical Metric](https://epubs.siam.org/doi/10.1137/16M1074485), SIAM J. Matrix Anal. Appl., Vol. 38 (2017), No. 2, pp. 322–342.
 
