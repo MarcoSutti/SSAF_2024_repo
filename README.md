@@ -3,20 +3,21 @@
 <!--- Created on 2024.06.24.
 Last change on 2024.06.24. -->
 
-This is a collection of MATLAB files associated with the preprint [A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold](https://arxiv.org/abs/2404.04089).
+This is a collection of MATLAB files associated with the paper [A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold](https://etna.math.kent.edu/volumes/2021-2030/vol60/abstract.php?vol=60&pages=501-519).
 
 In that paper, we propose a single shooting method with approximate Fréchet derivative (SSAF) to compute the Riemannian distance on the Stiefel manifold St(n,p), the set of n-by-p
 matrices with orthonormal columns. The proposed method is a shooting method in the sense of the classical shooting methods for solving boundary value problems; see, e.g., Stoer and Bulirsch, 1991. The main feature is that we provide an approximate formula for the Fréchet derivative of the geodesic involved in our shooting method.
 
 If there are any problems or bugs, feel free to [contact me](mailto:msutti@ncts.ntu.edu.tw).
 
-If you use SSAF for your research, please kindly cite the following preprint:
+If you use SSAF for your research, please kindly cite the following paper:
 
 > M. Sutti, 
-"[A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold](https://arxiv.org/abs/2404.04089)." Tech. report, April 2024, https://arxiv.org/abs/2404.04089.
+"[A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold](https://etna.math.kent.edu/volumes/2021-2030/vol60/abstract.php?vol=60&pages=501-519)." Electron. Trans. Numer. Anal. (ETNA), Vol. 60, 501–519, September 2024, doi:10.1553/etna_vol60s501.
 
 ## I) Version History
 
+- 16 Dec 2024: updated information about the paper.
 - Ver 1, 25 Jun 2024: initial release.
 
 ## II) Contents
